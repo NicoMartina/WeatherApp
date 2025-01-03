@@ -8,7 +8,7 @@ City Search: Allows users to enter a city name and get real-time weather informa
 Maven or Gradle for dependency management (optional if you're using an IDE like IntelliJ IDEA or Eclipse) OpenWeatherMap API Key (sign up for a free key at OpenWeatherMap) Installation Steps Clone or Download the Repository:
 
 # Clone this repository using Git:
-git clone https://github.com/yourusername/weather-information-app.git Alternatively, download the repository as a ZIP file from GitHub. Set up the API Key:
+git clone https://github.com/NicoMartina/WeatherApp.git Alternatively, download the repository as a ZIP file from GitHub. Set up the API Key:
 
 Open the WeatherService.java file in your IDE. Replace the placeholder API key in the WeatherService class with your actual OpenWeatherMap API key:
 
